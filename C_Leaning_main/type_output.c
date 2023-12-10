@@ -6,9 +6,11 @@ int main(){
     %d จำนวนเต็ม
     %f ทศนิยม
     %c ตัวอักษร
-    %c
+    %c ทุกข้อความที่อยู่ใน "  "
     
+    \n break
+    \t tab วรรค
     */
-    printf("Hello world");
+    printf("Hello world\n");
     return 0;
 }
